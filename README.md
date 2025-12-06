@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.SUPPLIES one word dom
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar     | Created          | Expires          |
 | ------------------- | --------- | -------- | ------ | ------ | ------------- | ---------------- | ---------------- |
-| aaa.supplies        | available | 70       | 38%    | 3      |               |                  |                  |
+| aaa.supplies        | premium   | 70       | 38%    | 3      |               |                  |                  |
 | aaron.supplies      | available | 88       | 32%    | 5      |               |                  |                  |
 | abactinal.supplies  | available | 50       | 1%     | 9      |               |                  |                  |
 | abaft.supplies      | available | 43       | 2%     | 5      |               |                  |                  |
