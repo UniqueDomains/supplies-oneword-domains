@@ -1,10 +1,10 @@
-# Available .SUPPLIES One-Word Domains (9,501)
+# Available .SUPPLIES One-Word Domains (9,502)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C502%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C501%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C502%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .supplies one-word domains from Un
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,502 rows · **Live catalog:** 9,501 domains
+**Public extract:** 9,502 rows · **Live catalog:** 9,502 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/supplies`  
@@ -65,20 +65,20 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | easy.supplies   | available | $32.48    | —             | 128            | 68     | 4      | namecheap        |
-| free.supplies   | resell    | —         | —             | 88             | 59     | 4      | Sav.com, LLC     |
+| the.supplies    | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH        |
 | power.supplies  | premium   | $1,040    | $1,040        | 98             | 62     | 5      | namecheap        |
 | true.supplies   | available | $32.48    | —             | 86             | 52     | 4      | namecheap        |
-| the.supplies    | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH        |
+| free.supplies   | resell    | —         | —             | 88             | 57     | 4      | Sav.com, LLC     |
 | ace.supplies    | premium   | $250      | $250          | 88             | 57     | 3      | name.com         |
 | one.supplies    | available | $32.48    | —             | 132            | 50     | 3      | namecheap        |
 | smart.supplies  | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC     |
 | live.supplies   | premium   | $250      | $250          | 108            | 56     | 4      | name.com         |
-| share.supplies  | available | $32.48    | —             | 74             | 49     | 5      | namecheap        |
+| simple.supplies | available | $32.48    | —             | 128            | 49     | 6      | namecheap        |
 | data.supplies   | resell    | —         | —             | 70             | 56     | 4      | NameCheap, Inc.  |
-| fast.supplies   | premium   | $1,000    | $1,000        | 82             | 53     | 4      | name.com         |
-| simple.supplies | available | $32.48    | —             | 128            | 48     | 6      | namecheap        |
-| wallet.supplies | resell    | —         | —             | 74             | 54     | 6      | GoDaddy.com, LLC |
 | art.supplies    | premium   | $1,040    | $1,040        | 90             | 52     | 3      | namecheap        |
+| share.supplies  | available | $32.48    | —             | 74             | 49     | 5      | namecheap        |
+| wallet.supplies | resell    | —         | —             | 74             | 54     | 6      | GoDaddy.com, LLC |
+| fast.supplies   | premium   | $1,000    | $1,000        | 82             | 52     | 4      | name.com         |
 | only.supplies   | available | $32.48    | —             | 110            | 46     | 4      | namecheap        |
 | buy.supplies    | resell    | —         | —             | 106            | 53     | 3      | 1API GmbH        |
 | real.supplies   | premium   | $42.90    | $42.90        | 78             | 51     | 4      | namecheap        |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,502-row public sample | 9,501 live domains                               |
+| 9,502-row public sample | 9,502 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
