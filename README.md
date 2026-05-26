@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .supplies one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,459 domains · **Median ask:** $36.33 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/supplies`  
 **Best for:** founders, investors, studios
 
@@ -67,8 +67,8 @@ print(df.head())
 | Acup.supplies      | available | $32.48    | —             | 80             | 5      | 5      | namecheap |
 | WiFi.supplies      | available | $32.48    | —             | 83             | 37     | 5      | namecheap |
 | forces.supplies    | available | $32.48    | —             | 82             | 12     | 6      | namecheap |
-| getup.supplies     | available | $32.48    | —             | 82             | 14     | 6      | namecheap |
-| popup.supplies     | available | $32.48    | —             | 84             | 29     | 6      | namecheap |
+| getup.supplies     | available | $32.48    | —             | 82             | 15     | 6      | namecheap |
+| popup.supplies     | available | $32.48    | —             | 84             | 28     | 6      | namecheap |
 | useit.supplies     | available | $32.48    | —             | 94             | 7      | 6      | namecheap |
 | hangon.supplies    | available | $32.48    | —             | 82             | 6      | 7      | namecheap |
 | stirup.supplies    | available | $32.48    | —             | 82             | 3      | 7      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPLIES One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPLIES One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
