@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .supplies one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,459 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,459 domains · **Median ask:** $36.33 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,459 domains · **Median ask:** $33.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/supplies`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/supplies`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SUPPLIES one-word dom
 
 ### Files
 
-- `supplies.csv` — public CSV extract (1,000 rows)
-- `supplies.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `supplies.csv`, public CSV extract (1,000 rows)
+- `supplies.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.supplies      | available | $32.48    | —             | 80             | 5      | 5      | namecheap |
-| WiFi.supplies      | available | $32.48    | —             | 83             | 37     | 5      | namecheap |
-| forces.supplies    | available | $32.48    | —             | 82             | 12     | 6      | namecheap |
-| getup.supplies     | available | $32.48    | —             | 82             | 15     | 6      | namecheap |
-| popup.supplies     | available | $32.48    | —             | 84             | 28     | 6      | namecheap |
-| useit.supplies     | available | $32.48    | —             | 94             | 7      | 6      | namecheap |
-| hangon.supplies    | available | $32.48    | —             | 82             | 6      | 7      | namecheap |
-| stirup.supplies    | available | $32.48    | —             | 82             | 3      | 7      | namecheap |
-| watches.supplies   | available | $32.48    | —             | 84             | 19     | 7      | namecheap |
-| Books.supplies     | available | $32.48    | —             | 52             | 49     | 5      | namecheap |
-| travelers.supplies | premium   | $38.94    | $38.94        | 58             | 61     | 9      | namesilo  |
-| cars.supplies      | premium   | $250      | —             | 66             | 47     | 4      | name.com  |
-| stories.supplies   | available | $32.48    | —             | 58             | 36     | 7      | namecheap |
-| jobs.supplies      | premium   | $1,000    | —             | 79             | 42     | 4      | name.com  |
-| tokens.supplies    | available | $24.99    | $24.99        | 51             | 36     | 6      | namesilo  |
-| etc.supplies       | premium   | $82.50    | —             | 58             | 34     | 3      | name.com  |
-| tickets.supplies   | available | $24.99    | $24.99        | 64             | 34     | 7      | namesilo  |
-| systems.supplies   | premium   | $82.50    | —             | 46             | 27     | 7      | name.com  |
-| teams.supplies     | available | $32.48    | —             | 62             | 32     | 5      | namecheap |
-| toys.supplies      | premium   | $242      | $242          | 60             | 24     | 4      | namesilo  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| aim.supplies     | available | $24.99    | $24.99        | high           | low    | 3      | namesilo         |
+| fund.supplies    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| fat.supplies     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
+| any.supplies     | available | $32.48    | —             | high           | medium | 3      | namecheap        |
+| teacher.supplies | resell    | —         | —             | high           | low    | 7      | Dynadot Inc      |
+| kid.supplies     | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| apt.supplies     | available | $32.48    | —             | high           | low    | 3      | namecheap        |
+| law.supplies     | premium   | $260      | $260          | high           | medium | 3      | namecheap        |
+| but.supplies     | available | $24.99    | $24.99        | high           | low    | 3      | namesilo         |
+| lp.supplies      | premium   | $242      | $242          | medium         | low    | 3      | namesilo         |
+| day.supplies     | available | $24.99    | $24.99        | high           | low    | 3      | namesilo         |
+| NYC.supplies     | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
+| Fla.supplies     | available | $24.99    | $24.99        | medium         | low    | 3      | namesilo         |
+| oil.supplies     | premium   | $250      | $250          | high           | low    | 3      | name.com         |
+| IDK.supplies     | available | $24.99    | $24.99        | medium         | low    | 3      | namesilo         |
+| club.supplies    | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo         |
+| ivy.supplies     | available | $24.99    | $24.99        | high           | low    | 3      | namesilo         |
+| sale.supplies    | premium   | $82.50    | —             | high           | low    | 4      | name.com         |
+| jar.supplies     | available | $24.99    | $24.99        | high           | low    | 3      | namesilo         |
+| tech.supplies    | premium   | $250      | —             | high           | medium | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .supplies domains. The strongest names usually pair a clear keyword with the commercial meaning of the .supplies extension, making them easier to justify for a category business or niche inventory brand. Names such as WiFi.supplies and jewels.supplies are direct and readable, while others like Acup.supplies or barup.supplies may need more explanation. For founders, the key question is whether the term feels memorable and commercially relevant. For investors, the focus is whether the ask leaves room for a deal and whether the keyword has realistic buyer demand within a .supplies ending.
+This list covers 12,459 one-word .supplies domain names, spanning short brandable terms and longer descriptive phrases. Examples in the set include WiFi.supplies, gearup.supplies, and getmarried.supplies, showing the range from concise brand candidates to compound-word names. With a median asking price near $34, most domains in this selection sit within reach for early-stage projects, though renewal costs and brandability vary from name to name. Updated daily, the set gives a current view of pricing and naming patterns across the .supplies extension.
 
-- Prefer words that fit procurement, products, or replenishment
-- Check if the keyword still reads clearly with .supplies
-- Direct generic terms usually beat vague or awkward words
-- Low ask can help, but renewal risk still matters
+- 12,459 one-word .supplies domains in this selection
+- Median asking price near $34 across the set
+- Mix of short brand names and compound phrases
+- Compare pricing and renewal before committing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPLIES One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPLIES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
