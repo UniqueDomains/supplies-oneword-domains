@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .supplies one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,532 domains · **Median ask:** $29.65 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-06
+**Last updated:** 2026-09-08
 **Canonical page:** `https://unique.domains/domains/tld/supplies`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| nothing.supplies | available | $24.99    | $24.99        | high           | low    | 7      | namesilo         |
+| easy.supplies    | available | $32.48    | —             | high           | medium | 4      | namecheap        |
 | aim.supplies     | available | $24.99    | $24.99        | high           | low    | 3      | namesilo         |
 | fund.supplies    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | fat.supplies     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
@@ -82,8 +84,6 @@ print(df.head())
 | club.supplies    | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo         |
 | IDK.supplies     | available | $24.99    | $24.99        | medium         | low    | 3      | namesilo         |
 | sale.supplies    | premium   | $82.50    | —             | high           | low    | 4      | name.com         |
-| iii.supplies     | available | $24.99    | $24.99        | low            | low    | 3      | namesilo         |
-| tech.supplies    | premium   | $250      | —             | high           | medium | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPLIES One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPLIES One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
