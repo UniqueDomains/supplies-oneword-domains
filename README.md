@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .supplies one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,929 domains · **Median ask:** $28.26 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/supplies`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| nothing.supplies | available | $24.99    | $24.99        | high           | low    | 7      | namesilo         |
 | aim.supplies     | available | $24.99    | $24.99        | high           | low    | 3      | namesilo         |
 | fund.supplies    | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
 | fat.supplies     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
@@ -83,7 +84,6 @@ print(df.head())
 | idk.supplies     | available | $24.99    | $24.99        | medium         | low    | 3      | namesilo         |
 | sale.supplies    | premium   | $82.50    | —             | high           | low    | 4      | name.com         |
 | iii.supplies     | available | $24.99    | $24.99        | low            | low    | 3      | namesilo         |
-| tech.supplies    | premium   | $242      | $242          | medium         | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPLIES One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPLIES One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
