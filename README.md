@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .supplies one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,672 domains · **Median ask:** $28.06 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/supplies`
 **Best for:** founders, investors, studios
 
@@ -65,6 +65,8 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | nothing.supplies | available | $24.99    | $24.99        | high           | low    | 7      | namesilo         |
+| youtube.supplies | available | —         | —             | high           | medium | 7      | —                |
+| front.supplies   | available | $24.99    | $24.99        | high           | low    | 5      | namesilo         |
 | aim.supplies     | available | $24.99    | $24.99        | high           | low    | 3      | namesilo         |
 | fund.supplies    | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
 | fat.supplies     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
@@ -78,12 +80,10 @@ print(df.head())
 | ccc.supplies     | available | $24.99    | $24.99        | low            | medium | 3      | namesilo         |
 | nyc.supplies     | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
 | day.supplies     | available | $24.99    | $24.99        | high           | low    | 3      | namesilo         |
-| oil.supplies     | premium   | $250      | $250          | high           | low    | 3      | name.com         |
+| oil.supplies     | premium   | $242      | $242          | medium         | low    | 3      | namesilo         |
 | fla.supplies     | available | $24.99    | $24.99        | medium         | low    | 3      | namesilo         |
 | club.supplies    | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo         |
 | idk.supplies     | available | $24.99    | $24.99        | medium         | low    | 3      | namesilo         |
-| sale.supplies    | premium   | $82.50    | —             | high           | low    | 4      | name.com         |
-| iii.supplies     | available | $24.99    | $24.99        | low            | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SUPPLIES One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SUPPLIES One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
